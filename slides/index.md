@@ -40,10 +40,8 @@ class: center, middle
 # Outline
 
 
-  * DNA/protein fastq/fasta
-  * gbk/gff
-  * alignment 格式 sam/bam
-  * vcf
+  * Processing fastq/fasta format files for DNA/protein
+  * Processing sam/bam format files for alignment
   * pipeline and shell
 
 
